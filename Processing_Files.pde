@@ -1,3 +1,5 @@
+//Program coded by JonECope using Processing 3.3.7 in Java. Tested with Processing 3.4, experiencing a slight buffer.
+
 PImage img1, img2, img3, img4, img5, img6;
 float r; //rotation
 float dw;
